@@ -6,7 +6,7 @@ A tracked robot built around an ESP32, equipped with a servo-mounted ultrasonic 
 
 ## Photos
 
-![Front](images/image1.jpg)
+![Front](images/image0.jpg)
 ![Back](images/image2.jpg)
 ![Top](images/image3.jpg)
 
