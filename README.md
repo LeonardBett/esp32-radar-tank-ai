@@ -45,6 +45,7 @@ The autonomous behavior is implemented as a state machine: `DRIVING` → `OBSTAC
 - 2 × HC-SR04 ultrasonic sensors (one on the rotating radar, one fixed)
 - Xbox Bluetooth controller
 - Tracked chassis and battery pack
+- 6 AA batteries
 
 Pin assignment (in `ChenilleRadar/Config.h`):
 
